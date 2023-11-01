@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#form-container{
+    margin: auto;
+    margin-top: 70px;
+    padding: 30px;
+    width: 50%;
+    height: 405px;
+    background-color: black;
+    border-radius: 4px;
+}
+#form{
+    border-radius: 14px;
+    margin: 20px;
+    padding: 15px;
+    background-color: aliceblue;
+}
+h1{
+    color: rgb(242, 13, 13);
+    text-align: center;
+    margin: auto;
+}
+/* .inputFields{
+} */
+.label{
+    color: rgb(242, 13, 13);
+}
+.btn{
+    margin: auto;
+    padding: 13px;
+    width: 270px;
+    background-color: red;
+    color: white;
+}
+.btn:hover{
+    background-color: rgb(72, 5, 8);
+    color: white;
+}
+.opt name{
+    color: rgb(242, 13, 13);
+}
+#output-section{
+    margin: auto;
+    margin-top: 20px;
+    padding: 30px;
+    width: 50%;
+    height: 200px;
+    background-color: black;
+    border-radius: 4px; 
+}
+#form-output{
+    
+    height: 140px;
+    border-radius: 14px;
+    margin: 20px;
+    padding: 15px;
+    background-color: aliceblue;
+
+}
